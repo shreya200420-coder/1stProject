@@ -1,6 +1,4 @@
-# Beginner C# Projects
-
-This repository contains simple and beginner-friendly **C# projects** created to understand basic programming concepts and GitHub usage.
+ C# Projects
 
 ## 📌 Projects Included
 
@@ -41,5 +39,6 @@ This repository contains simple and beginner-friendly **C# projects** created to
 ## 👤 Author
 **Shreya Singh**
 
-## 📄 License
-This project is open-source and free to use for learning purposes.
+
+
+
